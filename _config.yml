@@ -1,0 +1,18 @@
+#theme
+remote_theme: just-the-docs/just-the-docs
+
+#Analytics
+google_analytics: G-amitshanbhag
+#used by just-the-docs..
+ga_tracking: G-amitshanbhag
+
+#title
+title: "Amit Shanbhag's Home Page"
+
+#other config
+search_enabled: true
+#only one page per search
+search.heading_level: 1
+nav_sort: case_insensitive
+
+exclude: ['bin',"*.sh","*.yml"]
