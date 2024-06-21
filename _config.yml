@@ -11,6 +11,8 @@ title: "Amit Shanbhag's Home Page"
 
 #other config
 search_enabled: true
+baseurl: ''
+
 #only one page per search
 search.heading_level: 1
 nav_sort: case_insensitive
