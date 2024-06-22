@@ -1,0 +1,60 @@
+#Title, logo
+baseurl: ""
+permalink: "/:title/"
+title: "Amit Shanbhag's Home Page"
+logo: 'assets/images/favicon/logo.png'
+favicon: 'assets/images/favicon/favicon.ico'
+
+#System config
+
+timezone: UTC
+locale: en_us
+lang: en_us
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+#analytics
+#@todo: add the proper tracker
+google_analytics: G-amitshanbhag
+ga_tracking: G-amitshanbhag
+ganalytics: UA-shanbhag
+
+#Search config
+search_enabled: true
+search.heading_level: 1
+nav_sort: case_insensitive
+exclude: ['bin',"*.sh","*.yml"]
+
+#feed
+paginate: 30
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+
+#social
+disqus: 'disqus-amitshanbhag'
+social:
+  instagram: https://www.instagram.com/totalwasteoftime/
+  facebook: https://www.facebook.com/udakamit
+  twitter: https://twitter.com/udakamit
+
+authors:
+  amitshanbhag:
+    name: Amit Shanbhag
+    email: ashanbh@users.noreply.github.com
+    web: https://amitshanbhag.com/
+    twitter: https://twitter.com/udakamit
+    description: "Amit Shanbhag"
+
+# Plugins
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
