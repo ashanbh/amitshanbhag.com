@@ -12,8 +12,10 @@ locale: en_us
 lang: en_us
 markdown: kramdown
 kramdown:
+  highlighter: rouge
   syntax_highlighter_opts:
-    disable: true
+    disable: false
+    input: GFM
 sass:
   sass_dir: _sass
   style: :compressed
@@ -50,6 +52,7 @@ authors:
     web: https://amitshanbhag.com/
     twitter: https://twitter.com/udakamit
     description: "Amit Shanbhag"
+    avatar: 'assets/images/amitshanbhag.png'
 
 # Plugins
 plugins:
