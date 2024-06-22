@@ -1,4 +1,9 @@
 .idea
 .jekyll-cache
 _site
-Gemfile.lock
+*Gemfile.lock
+/assets/css/theme.scss
+/assets/js/bootstrap.min.js
+/assets/js/jquery.min.js
+/assets/js/theme.js
+/_sass/
