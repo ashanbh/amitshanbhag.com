@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Tree of Codes"
-author: sal
+title:  "Named Colors"
+author: amitshanbhag
 categories: [ nerdery, ux ]
 image: assets/images/1.png
 ---
