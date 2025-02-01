@@ -3,7 +3,7 @@ layout: post
 title:  "Named Colors"
 author: amitshanbhag
 categories: [ nerdery, ux ]
-image: assets/images/c0ffee.png
+image: assets/images/coffee/c0ffee.png
 ---
 
 ```chatGPT writes pretty boring blogs 👇```
