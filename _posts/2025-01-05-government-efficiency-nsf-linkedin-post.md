@@ -1,0 +1,86 @@
+---
+layout: post
+title: "Government Efficiency"
+author: amitshanbhag
+categories: [ politics, government ]
+image: assets/images/government_efficiency/government_efficiency.webp
+---
+
+More government efficiency is always better than less government efficiency [1,2]. But, today is as good a day as any to
+remember that the NSF gave us the internet 🛜, GPS 🛰️, MRI 🩻, AI 🤖 and much much more 🙏
+
+😡 Some will criticise the NSF for funding research that seems frivolous, open-ended, or even wasteful. But, the exact same
+open-ended research gave rise to perceptrons, backpropogation, imageNet, CNN, RNN, GANs - the foundation of modern AI. Yes 
+many have commercialized these technologies (ChatGPT, DeepSeek, LLAMA, Gemini). But none of this was invented in a 
+corporate lab --> it was all funded by the NSF over a period of decades. [4,5,6,7,8]
+
+💰 Show me one corporation that would have funded this research, that too over a period of decades, without any guarantee of
+success. The NSF has been doing this for decades!
+
+Moreover, NSF spending has hovered at 2-3% of GDP for decades. But the resulting research has created millions of jobs,
+and generated trillions in economic value. Regardless of how you feel about government spending, clearly not the right
+place to look [9].
+
+
+Here is a blurb on the topic from ChatGPT ---->
+🚀 **Game-Changing Innovations Funded by Government Agencies** 🚀
+
+Many of the tech and scientific breakthroughs we rely on daily were **funded by agencies like NSF, DARPA, DOE, and NIH.
+** Here are some of the most **groundbreaking inventions and discoveries** that have **transformed our lives!**
+
+### **💻 Tech & Computing**
+
+🌐 **The Internet** (DARPA) – The foundation of our digital world.  
+📡 **GPS** (DARPA & DoD) – Revolutionized navigation and logistics.  
+🔍 **Google’s Search Algorithm** (NSF) – Changed how we access information.  
+🖥 **Touchscreen Technology** (NSF & CIA) – A staple in smartphones & tablets.  
+🤖 **AI & Voice Assistants** (DARPA) – The backbone of Siri, Alexa & ChatGPT.
+
+### **🏥 Medical Breakthroughs**
+
+🧲 **MRI & CT Scans** (NSF, NIH, DOE) – Life-saving imaging technology.  
+💉 **mRNA Vaccines** (NIH & BARDA) – The tech behind COVID-19 vaccines.  
+🧬 **CRISPR Gene Editing** (NSF & NIH) – A revolution in genetics.  
+🦾 **Bionic Limbs** (DARPA) – Advanced prosthetics for mobility.
+
+### **⚡ Energy & Sustainability**
+
+🔋 **Lithium-Ion Batteries** (DOE) – Powering EVs & smartphones.  
+☀️ **Solar & Wind Energy** (DOE) – Making renewables mainstream.  
+🌍 **Nuclear Fusion Research** (DOE) – The future of clean energy.
+
+### **🚀 Aerospace & Transportation**
+
+🚗 **Self-Driving Cars** (DARPA) – AI-driven mobility.  
+🛰 **Reusable Rockets** (NASA & DARPA) – Fueling space exploration.  
+🛩 **Carbon Fiber Composites** (DOE & DoD) – Strengthening aerospace & auto tech.
+
+### **🌱 Biotech & Agriculture**
+
+🌾 **GMO & Drought-Resistant Crops** (USDA & NSF) – Feeding the world.  
+🔬 **Biofuels & Artificial Photosynthesis** (DOE) – Sustainable energy solutions.
+
+💡 **Government-backed research has been a catalyst for world-changing innovations.** Which one surprises you the most?
+Let’s discuss! ⬇️
+
+#Innovation #Technology #Science #GovernmentFunding #NSF #DARPA #DOE #AI #Healthcare #Sustainability 🚀
+
+# References
+
+[1] [Science funding agency threatened with mass layoffs](https://www.politico.com/news/2025/02/04/science-funding-agency-layoffs-threat-00202426)
+
+[2] [Outrageous taxpayer funded higher ed research projects doge can investigate](https://www.campusreform.org/article/sturge-10-outrageous-taxpayer-funded-higher-ed-research-projects-doge-can-investigate/26949)
+
+[3] [Perceptrons RosenBlatt, 1958 ](https://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf)
+
+[4] [Backpropogation - Rumelhart, Hinton, Williams, 1986](https://www.nature.com/articles/323533a0)
+
+[5] [ImageNet - Deng, Dong, Socher, Li, Li, Fei-Fei, 2009](https://www.cs.stanford.edu/people/karpathy/deepimagesent/)
+
+[6] [Convolutional Networks for Images, Speech, and Time-Series](https://www.researchgate.net/publication/2453996_Convolutional_Networks_for_Images_Speech_and_Time-Series)
+
+[7] [Recurrent Neural Networks - Elman, 1990](https://crl.ucsd.edu/~elman/Papers/fsit.pdf)
+
+[8] [Generative Adversarial Networks - Goodfellow, Pouget-Abadie, Mirza, Xu, Warde-Farley, Ozair, Courville, Bengio, 2014](https://arxiv.org/abs/1406.2661)
+
+[9] [NSF Funding Analytics](https://ncses.nsf.gov/pubs/nsf24317)

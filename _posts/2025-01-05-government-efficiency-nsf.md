@@ -95,6 +95,8 @@ Which one surprises you the most? Let’s discuss! ⬇️
 # References
 
 [^1] [Science funding agency threatened with mass layoffs](https://www.politico.com/news/2025/02/04/science-funding-agency-layoffs-threat-00202426)
-[^2] [Outrageous taxpayer funded higher ed research projects doge can investigate]  (https://www.campusreform.org/article/sturge-10-outrageous-taxpayer-funded-higher-ed-research-projects-doge-can-investigate/26949)
+
+[^2] [Outrageous taxpayer funded higher ed research projects doge can investigate](https://www.campusreform.org/article/sturge-10-outrageous-taxpayer-funded-higher-ed-research-projects-doge-can-investigate/26949)
+
 [^3] [NSF Funding Analytics](https://ncses.nsf.gov/pubs/nsf24317)
 
