@@ -1,7 +1,7 @@
 #Title, logo
 baseurl: ""
 permalink: "/:title/"
-title: "Amit Shanbhag's Home Page"
+title: "Amit Shanbhag"
 logo: 'assets/images/favicon/logo.png'
 favicon: 'assets/images/favicon/favicon.ico'
 

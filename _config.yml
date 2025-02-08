@@ -1,7 +1,7 @@
 #Title, logo
 baseurl: ""
 permalink: "/:title/"
-title: "Amit Shanbhag's Home Page"
+title: "Amit Shanbhag"
 logo: 'assets/images/favicon/logo.png'
 favicon: 'assets/images/favicon/favicon.ico'
 remote_theme: wowthemesnet/affiliates-jekyll-theme
@@ -13,9 +13,7 @@ lang: en_us
 
 #analytics
 #@todo: add the proper tracker
-google_analytics: G-amitshanbhag
-ga_tracking: G-amitshanbhag
-ganalytics: UA-shanbhag
+ganalytics: G-LLE20YGVSB
 
 #Search config
 search_enabled: true
@@ -32,8 +30,6 @@ feed_update_frequency: 1
 #social
 disqus: 'disqus-amitshanbhag'
 social:
-  instagram: https://www.instagram.com/totalwasteoftime/
-  facebook: https://www.facebook.com/udakamit
   twitter: https://twitter.com/udakamit
 
 authors:
