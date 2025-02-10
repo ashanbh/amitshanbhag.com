@@ -21,10 +21,7 @@ sass:
   style: :compressed
 
 #analytics
-#@todo: add the proper tracker
-google_analytics: G-amitshanbhag
-ga_tracking: G-amitshanbhag
-ganalytics: UA-shanbhag
+ganalytics: "G-LLE20YGVSB"
 
 #Search config
 search_enabled: true

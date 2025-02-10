@@ -12,8 +12,7 @@ locale: en_us
 lang: en_us
 
 #analytics
-#@todo: add the proper tracker
-ganalytics: G-LLE20YGVSB
+ganalytics: "G-LLE20YGVSB"
 
 #Search config
 search_enabled: true
