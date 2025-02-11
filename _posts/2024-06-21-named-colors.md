@@ -4,6 +4,7 @@ title:  "Named Colors"
 author: amitshanbhag
 categories: [ nerdery, ux ]
 image: assets/images/coffee/c0ffee.png
+excerpt: "Among the various quirks of CSS, an interesting aspect is how some common words can become valid CSS color codes by e.g. simply replacing the letter 'o' with the number '0'."
 ---
 
 ```chatGPT writes pretty boring blogs 👇```

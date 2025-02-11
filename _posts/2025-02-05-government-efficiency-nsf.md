@@ -4,6 +4,7 @@ title: "Government Efficiency"
 author: amitshanbhag
 categories: [ politics, government ]
 image: assets/images/government_efficiency/government_efficiency.webp
+excerpt: "More government efficiency is always better than less government efficiency. But, today is as good a day as any to remember that the NSF gave us the internet, GPS, MRI, AI and much much more."
 ---
 
 More government efficiency is always better than less government efficiency [1,2]. But, today is as good a day as any to

@@ -5,6 +5,7 @@ title:  "DeepSeek Censorship"
 author: amitshanbhag
 categories: [ ai, ethics ]
 image: assets/images/deepseekcensorship/light_politics.png
+excerpt: "The risks of censorship, misinformation, and propaganda are high, and the company has been credibly accused of IP theft and research misconduct."
 ---
 
 # Would you trust DeepSeek with your customer data?

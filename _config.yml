@@ -2,8 +2,8 @@
 baseurl: ""
 permalink: "/:title/"
 title: "Amit Shanbhag"
-logo: 'assets/images/favicon/logo.png'
-favicon: 'assets/images/favicon/favicon.ico'
+logo: 'etc/images/favicon/logo.png'
+favicon: 'etc/images/favicon/favicon.ico'
 remote_theme: wowthemesnet/affiliates-jekyll-theme
 
 #System config
@@ -30,6 +30,7 @@ feed_update_frequency: 1
 disqus: 'disqus-amitshanbhag'
 social:
   twitter: https://twitter.com/udakamit
+  bluesky: https://bsky.app/profile/amitshanbhag.bsky.social
 
 authors:
   amitshanbhag:
@@ -38,4 +39,4 @@ authors:
     web: https://amitshanbhag.com/
     twitter: https://twitter.com/udakamit
     description: "Amit Shanbhag"
-    avatar: 'assets/images/amitshanbhag.png'
+    avatar: 'etc/images/amitshanbhag.png'
